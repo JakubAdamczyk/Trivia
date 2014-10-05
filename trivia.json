@@ -1,0 +1,164 @@
+[
+    {
+        "question": "Kiedy wyginęły nieptasie dinozaury?",
+        "answers": [
+          {"ans": "65.000.000 lat temu", "value": true},
+          {"ans": "69.000.000 lat temu", "value": false}, 
+          {"ans": "120.000.000 lat temu", "value": false}, 
+          {"ans": "41.000.000 lat temu", "value": false}
+        ]
+    }, 
+    {
+        "question": "Do jakiego domu należał Harry Potter?",
+        "answers": [
+          {"ans": "Hufflepuff", "value": false},
+          {"ans": "Ravenclaw", "value": false}, 
+          {"ans": "Gryffindor", "value": true}, 
+          {"ans": "Slytherin", "value": false}
+        ]
+    }, 
+    {
+        "question": "Wysokość Mt. Everest, to:",
+        "answers": [
+          {"ans": "8921", "value": false},
+          {"ans": "6709", "value": false}, 
+          {"ans": "8701", "value": false}, 
+          {"ans": "8848", "value": true}
+        ]
+    }, 
+    {
+        "question": "Który z wymienionych aktorów NIE należał do grupy Monty Python?",
+        "answers": [
+          {"ans": "John Cleese", "value": false},
+          {"ans": "Rowan Atkinson", "value": true},
+          {"ans": "Graham Chapman", "value": false}, 
+          {"ans": "Michael Palin", "value": false} 
+        ]
+    }, 
+    {
+        "question": "Którą z poniższych płyt nagrał zespół Metallica?",
+        "answers": [
+          {"ans": "Vulgar Display of Power", "value": false},
+          {"ans": "Toxicity", "value": false}, 
+          {"ans": "Master of Puppets", "value": true},
+          {"ans": "South of Heaven", "value": false} 
+        ]
+    }, 
+    {
+        "question": "Mistrzem Polski w piłce nożnej w roku 2014 był zespół:",
+        "answers": [
+          {"ans": "Wisła Kraków", "value": false},
+          {"ans": "Legia Warszawa", "value": true},
+          {"ans": "Śląsk Wrocław", "value": false}, 
+          {"ans": "Podbeskidzie Bielsko-Biała", "value": false} 
+        ]
+    }, 
+    {
+        "question": "Pierwszym cesarzem Rzymu był:",
+        "answers": [
+          {"ans": "Galba", "value": false},
+          {"ans": "Wespazjan", "value": false}, 
+          {"ans": "Tyberiusz", "value": false},
+          {"ans": "August", "value": true}
+        ]
+    }, 
+    {
+        "question": "Dekameron został napisany przez:",
+        "answers": [
+          {"ans": "Giovanni Boccaccio", "value": true},
+          {"ans": "William Shakespeare", "value": false},
+          {"ans": "Francesco Petrarca", "value": false}, 
+          {"ans": "Dante Alighieri", "value": false}
+        ]
+    }, 
+    {
+        "question": "Który stan USA znajduje się najbliżej Rosji?",
+        "answers": [
+          {"ans": "Utah", "value": false},
+          {"ans": "Nevada", "value": false}, 
+          {"ans": "Alaska", "value": true},
+          {"ans": "Hawaje", "value": false}
+        ]
+    }, 
+    {
+        "question": "W jakim filmie wystąpił statek komiczny Nostromo?",
+        "answers": [
+          {"ans": "Star Wars", "value": false},
+          {"ans": "Alien", "value": true},
+          {"ans": "Battlestar Galactica", "value": false}, 
+          {"ans": "2001: A Space Odyssey", "value": false}
+        ]
+    }, 
+    {
+        "question": "Kto zagrał rolę Ricka Deckarda w filmie Łowca Androidów?",
+        "answers": [
+          {"ans": "Marlon Brando", "value": false},
+          {"ans": "Rutger Hauer", "value": false}, 
+          {"ans": "Anthony Hopkins", "value": false},
+          {"ans": "Harrison Ford", "value": true}
+        ]
+    }, 
+    {
+        "question": "Kto napisał powieść Krzyżacy?",
+        "answers": [
+          {"ans": "Bolesław Prus", "value": false},
+          {"ans": "Maria Konopnicka", "value": false}, 
+          {"ans": "Eliza Orzeszkowa", "value": false},
+          {"ans": "Henryk Sienkiewicz", "value": true}
+        ]
+    }, 
+    {
+        "question": "Jak nazywał się kot czarownika Gargamela?",
+        "answers": [
+          {"ans": "Maruda", "value": false},
+          {"ans": "Klakier", "value": true},
+          {"ans": "Pasibrzuch", "value": false}, 
+          {"ans": "Frajer", "value": false}
+        ]
+    }, 
+    {
+        "question": "Jak nazywał się najlepszy przyjaciel Gala Asteriksa?",
+        "answers": [
+          {"ans": "Obelix", "value": true},
+          {"ans": "Panoramix", "value": false},
+          {"ans": "Asparanoix", "value": false}, 
+          {"ans": "Kakofonix", "value": false}
+        ]
+    }, 
+    {
+        "question": "Kto założył Google?",
+        "answers": [
+          {"ans": "Steve Jobs i Steve Wozniak", "value": false},
+          {"ans": "Jeff Bezos", "value": false}, 
+          {"ans": "Sergey Brin i Lary Page", "value": true},
+          {"ans": "Bill Gates i Paul Allen", "value": false}
+        ]
+    }, 
+    {
+        "question": "Reprezentacja Polski w Siatkówce wygrała w półfinale z:",
+        "answers": [
+          {"ans": "Rosją", "value": false},
+          {"ans": "Niemcami", "value": true},
+          {"ans": "Brazylią", "value": false}, 
+          {"ans": "Francją", "value": false}
+        ]
+    }, 
+    {
+        "question": "Kto śpiewał piosenkę 'Sen o Warszawie'?",
+        "answers": [
+          {"ans": "Jerzy Połomski", "value": false},
+          {"ans": "Mieczysław Fogg", "value": false}, 
+          {"ans": "Stan Borys", "value": false},
+          {"ans": "Czesław Niemen", "value": true}
+        ]
+    }, 
+    {
+        "question": "Jaki tytuł nosiła trylogia J.R.R. Tolkiena?",
+        "answers": [
+          {"ans": "Władca Pierścieni", "value": true},
+          {"ans": "Silmarillion", "value": false}, 
+          {"ans": "Hobbit, czyli tam i z powrotem", "value": false},
+          {"ans": "Gra o tron", "value": false}
+        ]
+    }
+]
